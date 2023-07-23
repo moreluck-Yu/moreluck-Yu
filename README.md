@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm YU</h1>
 <h3 align="center">「吾常终日而思矣，不如须臾之所学也」</h3>
 <img img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1688530324360-33002e7f9736?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2728&q=80">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moreluck-yu&label=Profile%20views&color=0e75b6&style=flat" alt="moreluck-yu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/luckgodand7" target="blank"><img src="https://img.shields.io/twitter/follow/luckgodand7?logo=twitter&style=for-the-badge" alt="luckgodand7" /></a> </p>
 
 - 🌱 我目前正在学习 **备战考研！**
 
